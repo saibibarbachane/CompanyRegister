@@ -33,7 +33,7 @@ namespace CompanyRegister
                     workers.Salary = 0;
                    
                 }
-
+                people.Add(workers);
 
             }
             
